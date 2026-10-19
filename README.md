@@ -1,3 +1,6 @@
-# demo-repo
-update 1
-update 2
+## What I'm Learning
+
+- Java and Data Structures
+- Python
+- Git and GitHub
+- Software Engineering
